@@ -8,13 +8,13 @@ If you want to contact me, please leave me a message
 ---
 
 ###  *Experience*
-1. President of developer union club (2020 ~ 2021) - <em>AYC</em>
+🔗 President of developer union club (2020 ~ 2021) - <em>AYC</em>
 
-2. Junior Developer (2020.06 ~ 2020.08) - <em>Luit</em>
+🔗 Junior Developer (2020.06 ~ 2020.08) - <em>Luit</em>
 
-3. Member of developer club (2021 ~ ) - <em>SK LOOKIE</em>
+🔗 Member of developer club (2021 ~ ) - <em>SK LOOKIE</em>
 
-4. StartUp Developer (2021 ~ ) - <em>4RT</em>
+🔗 StartUp Developer (2021 ~ ) - <em>4RT</em>
 
 ___
 
