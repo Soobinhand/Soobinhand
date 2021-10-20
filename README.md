@@ -7,6 +7,10 @@ If you want to contact me, please leave me a message
 
 ---
 
+<a href="https://soobinhand.netlify.app">포트폴리오</a>
+
+---
+
 ###  *Experience*
 🔗 President of developer union club (2020 ~ 2021) - <em>AYC</em>
 
