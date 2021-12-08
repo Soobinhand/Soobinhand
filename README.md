@@ -5,12 +5,12 @@ If you want to contact me, please leave me a message
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:chelsea9528@gmail.com)
 
----
+
 
 ###  *Portfolio*
 <a href="https://soobinhands.netlify.app">개발자 포트폴리오</a>
 
----
+
 
 ###  *Experience*
 🔗 President of developer union club (2020 ~ 2021) - <em>AYC</em>
@@ -21,7 +21,7 @@ If you want to contact me, please leave me a message
 
 🔗 StartUp Developer (2021 ~ ) - <em>4RT</em>
 
-___
+
 
 ### *Skills*
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
