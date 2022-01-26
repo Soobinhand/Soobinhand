@@ -5,7 +5,7 @@ If you want to contact me, please leave me a message
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:chelsea9528@gmail.com)
 
-🏫 Education
+🏫 C.V
 - Sangmyung Unversity, Department of Library Information and Computer Science ``~2022-08`` `Bachelor`
 - AYC (Developer Union Club) ``2020-01 ~ 2020-12`` `President`
 - SK LOOKIE (SK) ``2021-03 ~ 2022-02`` `Member`
