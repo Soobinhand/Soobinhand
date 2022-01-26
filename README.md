@@ -5,33 +5,16 @@ If you want to contact me, please leave me a message
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:chelsea9528@gmail.com)
 
+🏫 Education
+- Sangmyung Unversity, Department of Library Information and Computer Science ``~2022-08`` `Bachelor`
+- AYC (Developer Union Club) ``2020-01 ~ 2020-12`` `President`
+- SK LOOKIE (SK) ``2021-03 ~ 2022-02`` `Member`
 
-
-###  *Portfolio*
-<a href="https://soobinhands.netlify.app">개발자 포트폴리오</a>
-
-
-
-###  *Experience*
-🔗 President of developer union club (2020 ~ 2021) - <em>AYC</em>
-
-🔗 Junior Developer (2020.06 ~ 2020.08) - <em>Luit</em>
-
-🔗 Member of developer club (2021 ~ ) - <em>SK LOOKIE</em>
-
-🔗 StartUp Developer (2021 ~ ) - <em>4RT</em>
-
-
-
-### *Skills*
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-
-***
+⚡ Interest
+- Problem Solving
+- Platform Service
+- Java with Spring
+- Swimming
 
 ✔ 1 day 1 or more commits ✔
 
