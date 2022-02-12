@@ -19,3 +19,4 @@ If you want to contact me, please leave me a message
 ✔ 1 day 1 or more commits ✔
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soobinhand)](https://github.com/anuraghazra/github-readme-stats)
+<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=soobinhand">
