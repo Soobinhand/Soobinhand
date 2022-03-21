@@ -2,7 +2,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:chelsea9528@gmail.com)
 
 🏫 C.V
-- DGB, IT Developer ``2022-03 ~ 2022-06`` ``Intern``
+- DGB - IT Developer ``2022-03 ~ 2022-06`` ``Intern``
 - Sangmyung Unversity, Department of Library Information and Computer Science ``~2022-08`` `Bachelor`
 - AYC (Developer Union Club) ``2020-01 ~ 2020-12`` `President`
 - SK LOOKIE (SK) ``2021-03 ~ 2022-02`` `Member`
