@@ -1,5 +1,7 @@
 ## 어제보다 0.01% 라도 꾸준하게 성장하는 주니어 백엔드 개발자
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:chelsea9528@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/soobin-son-35522922b/)](https://www.linkedin.com/in/soobin-son-35522922b/)
+[![Tech Blog Badge](https://img.shields.io/badge/-Tech%20blog-gray?style=flat-square&logo=github&link=https://soobinhand.tistory.com/)](https://soobinhand.tistory.com/)
 
 🏫 C.V
 - DGB - IT Developer ``2022-03 ~ 2022-06`` ``Intern``
