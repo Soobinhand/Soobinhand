@@ -9,11 +9,11 @@
 - AYC (Developer Union Club) ``2020-01 ~ 2020-12`` `President`
 - SK LOOKIE (SK) ``2021-03 ~ 2022-02`` `Member`
 
+
 ⚡ Interest
 - Problem Solving
 - Platform Service
 - Java with Spring
-- Swimming
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soobinhand)](https://github.com/anuraghazra/github-readme-stats)
