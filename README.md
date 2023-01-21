@@ -4,7 +4,7 @@
 [![Tech Blog Badge](https://img.shields.io/badge/-Tech%20blog-gray?style=flat-square&logo=github&link=https://soobinhand.tistory.com/)](https://soobinhand.tistory.com/)
 
 🏫 C.V
-- Naver Search Team (Team NAVER 2023.01 ~ )
+- Team NAVER 2023.01 ~ 
 - Google Developer Intern
 - DGB Life - IT Developer ``2022-06 ~ `` ``Full-Time``
 - DGB Life - IT Developer ``2022-03 ~ 2022-06`` ``Intern``
