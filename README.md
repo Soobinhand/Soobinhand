@@ -4,10 +4,17 @@
 [![Tech Blog Badge](https://img.shields.io/badge/-Tech%20blog-gray?style=flat-square&logo=github&link=https://soobinhand.tistory.com/)](https://soobinhand.tistory.com/)
 
 🏫 C.V
-- iM Financial Group - IT Developer ``2022-03 ~ ``  ``Full-Time``
-- Sangmyung Unversity, Department of Library Information and Computer Science ``~2023-01`` `Bachelor`
-- AYC (Developer Union Club) ``2020-01 ~ 2020-12`` `President`
-- SK LOOKIE (SK) ``2021-03 ~ 2022-02`` `Member`
+- iM Financial Group, Seoul, South Korea
+  IT Developer
+- Sangmyung Unversity, Seoul, South Korea
+  B.S. in Computer Engineering
+  B.A. in Library and Information Science
+- AYC (Assist Your Career)
+  President
+  Developer Union Club
+- SK LOOKIE (SK)
+  Member
+  Developer Assist
 
 ⚡ Interest
 - Problem Solving
