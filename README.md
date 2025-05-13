@@ -4,12 +4,10 @@
 [![Tech Blog Badge](https://img.shields.io/badge/-Tech%20blog-gray?style=flat-square&logo=github&link=https://soobinhand.tistory.com/)](https://soobinhand.tistory.com/)
 
 🏫 C.V
-- DGB Life - IT Developer ``2022-06 ~ `` ``Full-Time``
-- DGB Life - IT Developer ``2022-03 ~ 2022-06`` ``Intern``
+- iM Financial Group - IT Developer ``2022-03 ~ ``  ``Full-Time``
 - Sangmyung Unversity, Department of Library Information and Computer Science ``~2023-01`` `Bachelor`
 - AYC (Developer Union Club) ``2020-01 ~ 2020-12`` `President`
 - SK LOOKIE (SK) ``2021-03 ~ 2022-02`` `Member`
-
 
 ⚡ Interest
 - Problem Solving
