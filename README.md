@@ -6,9 +6,9 @@
 🏫 C.V
 - iM Financial Group, Seoul, South Korea
   IT Developer
-- Sangmyung Unversity, Seoul, South Korea
-  B.S. in Computer Engineering
+- B.S. in Computer Engineering
   B.A. in Library and Information Science
+  [wangsimni]
 - AYC (Assist Your Career)
   President
   Developer Union Club
