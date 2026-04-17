@@ -4,11 +4,9 @@
 [![Tech Blog Badge](https://img.shields.io/badge/-Tech%20blog-gray?style=flat-square&logo=github&link=https://soobinhand.tistory.com/)](https://soobinhand.tistory.com/)
 
 🏫 C.V
-- iM Financial Group, Seoul, South Korea
-  IT Developer
+- IT Developer (Backend)
 - B.S. in Computer Engineering
   B.A. in Library and Information Science
-  [wangsimni]
 - AYC (Assist Your Career)
   President
   Developer Union Club
